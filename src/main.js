@@ -18,7 +18,7 @@ gltfLoader.load('/model/chair.glb', (gltf) => {
 
 function animate() {
   requestAnimationFrame(animate);
-  console.log(htmlGLTFModel.getAttribute('position'))
+  // console.log(htmlGLTFModel.getAttribute('position'))
 }
 
 animate();
