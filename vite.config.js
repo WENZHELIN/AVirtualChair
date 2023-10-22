@@ -42,6 +42,9 @@ export default {
             css: path.resolve(__dirname, './src/css'),
         },
     },
+    optimizeDeps: {
+        include: ['three', 'gsap'],
+    },
     esbuild: {
         drop: ['console', 'debugger'],
     },
