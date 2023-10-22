@@ -1,0 +1,22 @@
+{
+  "name": "AVirtualChair",
+  "version": "1.0.0",
+  "description": "art work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WENZHELIN/AVirtualChair.git"
+  },
+  "keywords": [
+    "art"
+  ],
+  "author": "WENZHELIN",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WENZHELIN/AVirtualChair/issues"
+  },
+  "homepage": "https://github.com/WENZHELIN/AVirtualChair#readme"
+}
