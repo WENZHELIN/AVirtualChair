@@ -24,4 +24,5 @@ function animate() {
 animate();
 
 // https://raw.githubusercontent.com/WENZHELIN/AVirtualChair/main/public/model/chair.glb
+// https://raw.githubusercontent.com/WENZHELIN/AVirtualChair/main/public/targets.mind
 
